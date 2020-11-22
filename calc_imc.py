@@ -1,4 +1,4 @@
-#segundo código rafael data 11/08/2020
+#código 2 rafgds
 
 print("-------------------Calculadora de IMC-------------------")
 
