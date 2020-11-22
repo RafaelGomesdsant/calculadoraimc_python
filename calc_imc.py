@@ -1,4 +1,5 @@
-# primeirocodigo
+#segundo código rafael data 11/08/2020
+
 print("-------------------Calculadora de IMC-------------------")
 
 nome = (input("Digite o seu nome: "))
