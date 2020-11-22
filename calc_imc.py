@@ -1,6 +1,6 @@
 #código 2 rafgds
 
-print("-------------------Calculadora de IMC-------------------")
+print("----------------Calculadora de IMC-----------\n")
 
 nome = (input("Digite o seu nome: "))
 altura = float(input("Digite a sua altura: "))
@@ -8,7 +8,8 @@ peso = float(input("Digite o seu peso: "))
 
 imc = peso / altura ** 2
 
-print("Olá", nome, ", o seu IMC é de: %.4f" % imc, "isso significa que você está com")
+print("Olá", nome, ", o seu IMC é de: %.4f" % imc) 
+print("isso significa que você está com")
 
 if imc < 16:
     print("magreza grave")
@@ -26,4 +27,4 @@ elif imc < 40:
     print("obesidade severa")
 else:
     print("obesidade mórbida")
-print("-------------FIM------------")
+print("----------------------------------")
