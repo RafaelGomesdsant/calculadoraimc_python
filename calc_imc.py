@@ -27,4 +27,3 @@ elif imc < 40:
     print("obesidade severa")
 else:
     print("obesidade mórbida")
-print("----------------------------------")
